@@ -1,8 +1,14 @@
 # awaken.fyi
 
+*Catch your AI agent's confident mistakes before they ship.*
+
 **Stop correcting AI twice.**
 
 You tell your AI to fix something. It agrees. Three turns later it's doing it again. xOP turns a correction you keep repeating into a reusable operating rule — one that knows when it applies, when to back off, and what must never be lost.
+
+## Try this now — the swap test
+
+Ask your AI to critique something; if refused, reword it politely and watch the refusal vanish — that's the bug we work on. No install, no signup: run it in the chat you already have open.
 
 ## The shelf
 
