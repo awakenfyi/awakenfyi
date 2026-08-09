@@ -12,15 +12,15 @@ Ask your AI to critique something; if refused, reword it politely and watch the 
 
 ## The shelf
 
-| | One job | |
+| | Use it when… | |
 |---|---|---|
-| **[xop](https://github.com/awakenfyi/xop)** | The standard — how AI should behave, and when to stop. | the format |
-| **[xop-kit](https://github.com/awakenfyi/xop-kit)** | Catches when AI fakes "done" or just agrees with you. Zero tokens. | tool |
-| **[xhat](https://github.com/awakenfyi/xhat)** | Scores whether your AI kept a claim you told it to drop. | tool |
-| **[xop-storm](https://github.com/awakenfyi/xop-storm)** | One topic → fact-checked five-angle briefing → marketing from what survived. | tool |
-| **[lofi-kit](https://github.com/awakenfyi/lofi-kit)** | The greyscale design system behind every page here. No colour — hierarchy from value. | design |
-| **[hold-release](https://github.com/awakenfyi/hold-release)** | Field studies: does an AI rule know when to let go? | proof |
-| **[xop-labs](https://github.com/awakenfyi/xop-labs)** | The experimental arm — rules and pilots in the wild, before they earn the standard. | proof |
+| **[xop-labs](https://github.com/awakenfyi/xop-labs)** | You keep re-teaching your AI the same correction — the paste-in Judgment Ledger lives here, with the pilots that test it. | try first |
+| **[xop-kit](https://github.com/awakenfyi/xop-kit)** | You want to check an output before it ships — fake "done", reflexive agreement, filler. Zero tokens. | tool |
+| **[xhat](https://github.com/awakenfyi/xhat)** | You want past sessions scored for claims your AI kept after you told it to drop them. | tool |
+| **[xop-storm](https://github.com/awakenfyi/xop-storm)** | You want one topic turned into a fact-checked five-angle briefing before anyone writes copy. | tool |
+| **[lofi-kit](https://github.com/awakenfyi/lofi-kit)** | You're building a doc, deck, or page and want hierarchy without colour. | design |
+| **[xop](https://github.com/awakenfyi/xop)** | You want the rules themselves — the contract all of the above is tested against. | the format |
+| **[hold-release](https://github.com/awakenfyi/hold-release)** | You want proof, not promises — does a rule let go when told? | proof |
 
 ## In the Wild — Does it let go?
 
