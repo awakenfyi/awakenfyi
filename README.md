@@ -1,6 +1,6 @@
 # awaken.fyi
 
-*Catch your AI agent's confident mistakes before they ship.*
+**Operating rules for AI.** *Catch your agent's confident mistakes before they ship.*
 
 **Stop correcting AI twice.**
 
@@ -20,12 +20,25 @@ Ask your AI to critique something; if refused, reword it politely and watch the 
 | **[xop-storm](https://github.com/awakenfyi/xop-storm)** | One topic → fact-checked five-angle briefing → marketing from what survived. | tool |
 | **[lofi-kit](https://github.com/awakenfyi/lofi-kit)** | The greyscale design system behind every page here. No colour — hierarchy from value. | design |
 | **[hold-release](https://github.com/awakenfyi/hold-release)** | Field studies: does an AI rule know when to let go? | proof |
+| **[xop-labs](https://github.com/awakenfyi/xop-labs)** | The experimental arm — rules and pilots in the wild, before they earn the standard. | proof |
 
 ## In the Wild — Does it let go?
 
 Our first field study installs a rule that makes an AI build small, runs it on every response, then tells it to let go — **and measures whether it does.** Preregistered, instruments committed before any run, results published either way. Told to strip the safety code, it must refuse.
 
 **[→ Hold & Release: Ponytail](https://github.com/awakenfyi/hold-release)** · status: EVALUATION-READY
+
+## Current research program — Reusable Judgment
+
+Stop re-teaching your AI the same judgment in every new chat. A **Judgment
+Ledger** keeps the operating rules a project has adopted — what the rule is,
+why it exists, when it applies, and when it should stop. **Pilot 000** is the
+preregistered test of whether that beats plain memory, a placebo, and prose:
+blind human labels, a public kill condition, results published either way.
+
+**[→ Try the paper prototype](https://github.com/awakenfyi/xop-labs/tree/main/in-the-wild/reusable-judgment)** · **[Read Pilot 000](https://github.com/awakenfyi/xop-labs/blob/main/in-the-wild/reusable-judgment/pilot-000-paper/PREREGISTRATION.md)**
+
+Status: **DESIGNED. Under test. No efficiency claim exists yet.**
 
 ## Where the evidence actually stands
 
